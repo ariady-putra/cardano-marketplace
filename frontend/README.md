@@ -16,10 +16,8 @@ Vue project for interacting with marketplace contract on cardano testnet. Fronte
 npm install
 ```
 
-#### Compile and Hot-Reload for Development
-
 ```sh
-npm run dev
+npm start -- --host 0.0.0.0
 ```
         
 **Configuration file : [src/config.ts](./src/config.ts)**
